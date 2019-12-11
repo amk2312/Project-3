@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* 
+font-family: 'Arimo', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-weight: ;
+400, 600 os
+400 a
+*/
+
+body {
+    margin: 10px 10px 10px 10px;
+    padding-top: 400px;
+    width: 1440px; 
+    background-color: white;
+
+}
+.block{
+    position:absolute;
+    bottom: 900px;
+    right: 80px; 
+    background-color: goldenrod;
+    padding-left: 10px; 
+    padding-right: 10px; 
+    color: black;
+}
+.searchbar{
+    position: absolute;
+    top: -40px; 
+    right: 50px; 
+    
+}
+
+
+    nav {
+        position: absolute;
+        top: 200px;
+        left: 0px;
+        margin: 0px;
+        padding: 0px;
+        width: 1440px; 
+        height: 100px; 
+    }
+        nav ul {
+            list-style-type: none; 
+           position: relative;
+            width: 900px;
+            height: 90px; 
+            left: 350px;
+            top: 100px;
+            margin: 0px; 
+            padding: 0px; 
+            overflow: hidden; 
+        }
+        nav li {
+            float: left;
+
+        }
+        nav li a {
+            text-align: center; 
+            display: inline-block;
+            margin: 0px; 
+            padding: 20px ; 
+            font-family: 'Arimo', sans-serif;
+            font-weight: 400;
+            text-decoration: none; 
+            font-size: 30px; 
+            color: black; 
+        }
+        nav li a:hover {
+            color: #696969;
+            border-bottom: 3px solid #000000;
+        }
+        nav li a:hover:not(active) {
+            color: black; 
+        }
+        nav li a.active {
+            color: #696969;
+            border-bottom: 3px solid #000000;
+        }
+    
+header {
+    
+}
+
+header h1, h2 {
+     font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 10px;
+
+}
+
+.text-block {
+    position:absolute;
+    bottom: 900px;
+    right: 80px; 
+    background-color: goldenrod;
+    padding-left: 10px; 
+    padding-right: 10px; 
+    padding-top: -10px;
+    padding-bottom: -10px; 
+}
+
+.login h1{
+    position: absolute;
+    top: 30px;
+    left: 50px; 
+    font-size: 15px; 
+}
+
+.top h2{
+    position:absolute;
+    top: 75px;
+    left: 50px; 
+    font-size: 20px; 
+}
+
+.top h3{
+    position: absolute;
+    top: 130px; 
+    left: 50px;  
+    font-size: 20px; 
+}
+
+.logo{
+    position:absolute;
+    left: 520px; 
+    top: 10px;
+    bottom: 600px; 
+}
+.flower1{
+    position: absolute;
+    top: 450px;
+    left: 250px; 
+
+}
+    .footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0;
+    width: 100%;
+ 
+        }
+
+.footer2 {
+    position: fixed;
+    left: 0px;
+    right: 30px; 
+    bottom: 0; 
+    width: 100%; 
+    text-align: center; 
+        background-color: darkolivegreen; 
+    padding: 15px; 
+}
+.autumnimage{
+    position: absolute;
+    right: 50px; 
+    bottom: 100px;
+    top: 450px; 
+}
+
+.text {
+position: absolute;
+top: 550px; 
+left: 50px;
+font-family: 'Open Sans', sans-serif;
+line-height: 26px;
+    
+    
+}
+
+
+}
+#block-one  {
+    
+}
+*/
